@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="SVZ" /></p>
+<p><img align="right" src="https://github.com/santizelada/santizelada/blob/main/meFlying.gif" alt="SVZ" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
