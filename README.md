@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Zelada</h1>
 <h3 align="center">A bilingual programming student at the National Technological University of Tucuman, Software & Web Developer 🌟.</h3>
-<p><img align="right" src="https://github.com/santizelada/santizelada/blob/main/ssstik.io_1697922981202.gif" width="100%" height="40%" alt="SVZ" /></p>
+<p><img align="right" src="https://github.com/santizelada/santizelada/blob/main/ssstik.io_1697922981202.gif" width="20%" height="25%" alt="SVZ" /></p>
 
 
 
