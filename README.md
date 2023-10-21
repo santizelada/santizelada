@@ -41,7 +41,7 @@
       height="40" color="red" />               </p> 
 
 <br>
-<p><img align="right" src="https://github.com/santizelada/santizelada/blob/main/ssstik.io_1697922981202.gif" width="20%" height="25%" alt="SVZ" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/santiago-valent%C3%ADn-zelada-93b779277" target="_blank"><img align="center"
