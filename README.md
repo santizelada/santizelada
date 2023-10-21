@@ -35,7 +35,7 @@
       height="40" /> <img
       src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" alt="sass" width="40"
       height="40" color="red" />  <img
-      src="https://github.com/simple-icons/simple-icons/blob/develop/icons/bootstrap.svg" alt="bootstrap" width="40"
+      src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40"
       height="40" color="red" />               </p> 
 
 <br>
