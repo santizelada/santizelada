@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **santtyzelada@gmail.com**
 
-- ⚡ Fun fact :- Gym and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Gym, Batman & Music🎵 are the reasons to live.
 
 <br>
 
