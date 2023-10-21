@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Santiago Zelada</h1>
-<h3 align="center">A bilingual programming student at the National Technological University, Software and Web Developer 🌟.</h3>
+<h3 align="center">A bilingual programming student at the National Technological University of Tucuman, Software & Web Developer 🌟.</h3>
 
 <br>
-<p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="SVZ" /></p>
 <p><img align="right" src="https://github.com/santizelada/santizelada/blob/main/meFlying.gif" alt="SVZ" /></p>
+<p><img align="left" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="SVZ" /></p>
+
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
