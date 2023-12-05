@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Zelada</h1>
-<h3 align="center">A bilingual programming student at the National Technological University of Tucuman, Software & Web Developer 🌟.</h3>
+<h3 align="center">A bilingual programming student at the National Technological University of Tucuman & Software and Web Developer 🌟.</h3>
 
 
 <br>
